@@ -18,7 +18,7 @@ Make sure you have **Python 3.10+** installed.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chess-game.git
+git clone https://github.com/trunghieu06/Chess-game.git
 cd chess-game
 ```
 2. Install dependencices:
