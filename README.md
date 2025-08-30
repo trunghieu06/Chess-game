@@ -7,8 +7,7 @@ The game allows you to play **human vs. bot**, where the bot’s moves are calcu
 
 ## 🚀 Features
 - 🎨 **Pixel-based graphics** for a retro look and feel.  
-- 🤖 **Bot opponent** powered by an external Chess API.  
-- 🕹️ **Offline play** – no internet required during the match (except for API initialization if needed).  
+- 🤖 **Bot opponent** powered by an external Chess API with customized level.  
 - ✅ Full support for standard chess rules (piece moves, check, checkmate, stalemate).  
 - 🔄 Move validation and FEN (Forsyth–Edwards Notation) support.  
 
